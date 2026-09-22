@@ -45,7 +45,7 @@ export default function LoadingScreen({ onLoadingComplete }) {
             y: -20,
             transition: { duration: 0.85, ease: [0.65, 0, 0.35, 1] },
           }}
-          className="fixed inset-0 z-[9999] flex flex-col items-center justify-center bg-nexora-950 text-white select-none px-6"
+          className="fixed inset-0 z-[9999] flex flex-col items-center justify-center bg-nexora-950 text-white select-none px-6 bg-black"
         >
           {/* Subtle ambient background glow */}
           <div className="absolute w-[500px] h-[500px] rounded-full bg-nexora-accent/5 blur-[120px] pointer-events-none" />

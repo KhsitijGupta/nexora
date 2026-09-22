@@ -51,7 +51,7 @@ export default function Navbar() {
             aria-label="NEXORA Home"
           >
             <img
-              src="/logo.png"
+              src="./logo.png"
               alt="NEXORA"
               className="
         w-20

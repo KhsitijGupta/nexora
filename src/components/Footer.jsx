@@ -74,7 +74,7 @@ export default function Footer() {
             <div>
               <div className="flex items-center mb-4">
                 <img
-                  src="/logo.png"
+                  src="./logo.png"
                   alt="NEXORA"
                   className="w-32 h-auto object-contain"
                 />
